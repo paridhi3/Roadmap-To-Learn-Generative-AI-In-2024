@@ -34,12 +34,7 @@
 
 ## 5. Starting the Journey Towards Generative AI (GPT4,Mistral 7B, LLAMA, Hugging Face Open Source LLM Models,Google Palm Model)
 1. OpenAI [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=CbpsDMwFG2g&list=PLZoTAELRMXVMTWGW9iS45ZTcMsntos6VO)
-
-![image](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024/assets/20041231/986bc005-e6c3-4f41-b678-82e0c0c2aa4a)
-
-
 2. Langchain Tutorials With Projects [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://python.langchain.com/docs/get_started/introduction) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=4O1rs7mrNDo&list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar)
-
 3. Chainlit [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://docs.chainlit.io/get-started/overview)
 4. Google Gemini [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://ai.google.dev/tutorials/python_quickstart?authuser=1 )
 
@@ -59,7 +54,7 @@
 5. HuggingFace Spaces
 
 ## iNeuron Free Community Generative Ai Series [![YouTube](https://img.shields.io/badge/freecourse-link-green)](https://ineuron.ai/course/generative-ai-community-edition-hinglish)
-![image](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024/assets/20041231/e96eddca-5e19-45b3-8beb-bf95a80cc4db)
+
 
 
 
